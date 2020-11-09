@@ -21,7 +21,145 @@ namespace Exam.Dal.Configuration
                 .HasMany(b => b.Blogs)
                 .WithOne(u => u.User)
                 .HasForeignKey(u => u.User);
-                
+
+            builder.HasData(new List<User>
+            {
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed Halkic",
+                    Age = 25,
+                    Email = "muhamed@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed1 Halkic",
+                    Age = 25,
+                    Email = "muhamed1@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed2 Halkic",
+                    Age = 25,
+                    Email = "muhamed2@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed3 Halkic",
+                    Age = 25,
+                    Email = "muhamed3@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed4 Halkic",
+                    Age = 25,
+                    Email = "muhamed4@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed5 Halkic",
+                    Age = 25,
+                    Email = "muhamed5@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed6 Halkic",
+                    Age = 25,
+                    Email = "muhamed6@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed7 Halkic",
+                    Age = 25,
+                    Email = "muhamed7@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed8 Halkic",
+                    Age = 25,
+                    Email = "muhamed8@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed9 Halkic",
+                    Age = 25,
+                    Email = "muhamed9@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed11 Halkic",
+                    Age = 25,
+                    Email = "muhamed11@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 1,
+                    Name = "Muhamed12 Halkic",
+                    Age = 25,
+                    Email = "muhamed12@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 13,
+                    Name = "Muhamed13 Halkic",
+                    Age = 25,
+                    Email = "muhamed13@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 14,
+                    Name = "Muhamed14 Halkic",
+                    Age = 25,
+                    Email = "muhamed14@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                },
+                new User
+                {
+                    Id = 15,
+                    Name = "Muhamed15 Halkic",
+                    Age = 25,
+                    Email = "muhamed15@hotmail.com",
+                    Password = "1234",
+                    CreatedBy = "Muhamed Halkic"
+                }
+            });
         }
     }
 }

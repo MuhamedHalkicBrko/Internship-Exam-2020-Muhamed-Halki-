@@ -5952,11 +5952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\korisnik\\Desktop\\Exam\\Exam.Dal\\Exam.Dal.csproj",
+      "projectUniqueName": "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam.Dal\\Exam.Dal.csproj",
       "projectName": "Exam.Dal",
-      "projectPath": "C:\\Users\\korisnik\\Desktop\\Exam\\Exam.Dal\\Exam.Dal.csproj",
+      "projectPath": "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam.Dal\\Exam.Dal.csproj",
       "packagesPath": "C:\\Users\\korisnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\korisnik\\Desktop\\Exam\\Exam.Dal\\obj\\",
+      "outputPath": "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",

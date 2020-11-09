@@ -5973,11 +5973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\korisnik\\Desktop\\Exam\\Exam\\Exam.csproj",
+      "projectUniqueName": "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam\\Exam.csproj",
       "projectName": "Exam",
-      "projectPath": "C:\\Users\\korisnik\\Desktop\\Exam\\Exam\\Exam.csproj",
+      "projectPath": "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam\\Exam.csproj",
       "packagesPath": "C:\\Users\\korisnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\korisnik\\Desktop\\Exam\\Exam\\obj\\",
+      "outputPath": "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5993,8 +5993,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\korisnik\\Desktop\\Exam\\Exam.Dal\\Exam.Dal.csproj": {
-              "projectPath": "C:\\Users\\korisnik\\Desktop\\Exam\\Exam.Dal\\Exam.Dal.csproj"
+            "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam.Dal\\Exam.Dal.csproj": {
+              "projectPath": "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam.Dal\\Exam.Dal.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQLm5DAMakBTYactzw73ix+JL0aeHdLyfN9xVXzfNrWVDY5tIRIljxTJfcAvHi6XQiEYIEzO/V/cpzr3zQLPCQ==",
+  "dgSpecHash": "c49CfI/1MYHPvPEyKSNehzs5MxRpicQG6L7KFQzvP2x5O5ovPym5KlUBjBzFLQPFwqsDVHLb+kM4WO7s/AzrsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\korisnik\\Desktop\\Exam\\Exam.Dal\\Exam.Dal.csproj",
+  "projectFilePath": "C:\\Users\\korisnik\\Desktop\\eBook\\Internship-Exam-2020-Muhamed-Halki-\\Exam.Dal\\Exam.Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\korisnik\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\korisnik\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
